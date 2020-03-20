@@ -292,8 +292,12 @@ hr {
     margin-bottom: 30px;
 }
 
-.nieuws-items h4 {
-    margin: 10px 0;
+.nieuws-items article span {
+    font-weight: bold;
+}
+
+.nieuws-items article p {
+    margin-top: 10px;
 }
 
 .bellen {
